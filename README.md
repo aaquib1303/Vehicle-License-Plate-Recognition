@@ -20,14 +20,14 @@
 
 * Custom Object Detection
 * Scene Text Detection
-* Scene Text Recognation
-* Optic Character Recognation
+* Scene Text Recognition
+* Optic Character Recognition
 * EasyOCR, PaddleOCR
 * Database,CSV format
 * Applying project in Real Time
 * Flask
 ## Dataset
-The dataset I use for license plate detection:  
+The dataset I used for license plate detection:  
 
 https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
 
