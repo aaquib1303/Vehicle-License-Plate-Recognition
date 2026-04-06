@@ -33,20 +33,6 @@ The dataset I use for license plate detection:
 
 https://www.kaggle.com/datasets/andrewmvd/car-plate-detection
 
-## Installation
-
-Clone repo and install requirements.txt in a Python>=3.7.0 environment.
-
-    git clone https://github.com/mftnakrsu/Automatic-number-plate-recognition-YOLO-OCR.git  # clone
-    cd Automatic-number-plate-recognition-YOLO-OCR
-    pip install -r requirements.txt  # install
-
-## Usage
-
-After the req libraries are installed, you can run the project by main.py.
-
-    python main.py
-
 ## Project architecture
 
 The pipeline in the project is as follows:  
