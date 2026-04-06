@@ -10,8 +10,6 @@
 
   * [What will you learn this project ](#what-will-you-learn-this-project)
   * [Dataset](#dataset)
-  * [Installation](#installation)
-  * [Usage](#usage)
   * [Project architecture](#project-architecture)
   * [Some Result](#some-result)
   * [Source](#source)
